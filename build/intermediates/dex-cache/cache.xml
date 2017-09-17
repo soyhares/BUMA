@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hares/.android/build-cache/693f654ac1ce21ee76959c4853441724fad23d4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/hares/projects/BUMA/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_578bb7d701646181a0fa0db2abfd621c74c091c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hares/projects/BUMA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e0b6bcad3cb0dc759843632f3018a953223aca69">
+        <dex dex="/home/hares/projects/BUMA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_984c136f02a6bc7148fbc787f78e96d5644a760a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hares/.android/build-cache/5e548dab44372c84ec87e3e0403a28c91b583db4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/hares/projects/BUMA/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6204de58d0648bfd76bbae3eb35cd23c0f7b2406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hares/.android/build-cache/17835704f92f31e58567ebe84ad72d46ca9933b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/hares/projects/BUMA/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9800da6536de4fba5433caffc202bcc5ec96f240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hares/projects/BUMA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/hares/projects/BUMA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_61d24f9044f8bfba04ec50afb19cf00b68553f54/classes.dex" />
+    </item>
+
+</items>

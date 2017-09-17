@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885373992021",
+    "firebase_url": "https://buma-cr.firebaseio.com",
+    "project_id": "buma-cr",
+    "storage_bucket": "buma-cr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885373992021:android:acc2cd5473e16c35",
+        "android_client_info": {
+          "package_name": "project.budgetmanager.bumadevelopers.buma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885373992021-cuq8qe5g0u16oquq5l922ldla87pfecs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.budgetmanager.bumadevelopers.buma",
+            "certificate_hash": "de76882da80e4416de6d33779f146aa5536b5213"
+          }
+        },
+        {
+          "client_id": "885373992021-v5bd4pkc1j9tbr7apv44a0kqahovr4d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYjitk5Je2I-KXGzVvG5O93dDX1wTgHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885373992021-v5bd4pkc1j9tbr7apv44a0kqahovr4d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
